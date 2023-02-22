@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "z5byq0Zx0rutRlf/2LSJKzBvEppP2bMii4gkwbaV99QpMosLLiVKvO2PnfpgVJ8D/jNYBagNu1On1UI41KywWw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Евгений\\source\\repos\\Zametochka\\Zametochka\\Zametochka.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Евгений\\.nuget\\packages\\materialdesigncolors\\2.1.1\\materialdesigncolors.2.1.1.nupkg.sha512",
+    "C:\\Users\\Евгений\\.nuget\\packages\\materialdesignthemes\\4.7.1\\materialdesignthemes.4.7.1.nupkg.sha512",
+    "C:\\Users\\Евгений\\.nuget\\packages\\microsoft.xaml.behaviors.wpf\\1.1.39\\microsoft.xaml.behaviors.wpf.1.1.39.nupkg.sha512",
+    "C:\\Users\\Евгений\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
